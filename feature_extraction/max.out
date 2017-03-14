@@ -1,0 +1,65 @@
+Start
+[Start Indrirunquery] modele Indri
+[Indrirunquery ended]
+Traitement requete : 270
+Traitement requete : 271
+Traitement requete : 272
+Traitement requete : 259
+Traitement requete : 274
+Traitement requete : 275
+Traitement requete : 276
+Traitement requete : 277
+Traitement requete : 252
+Traitement requete : 253
+Traitement requete : 251
+Traitement requete : 256
+Traitement requete : 257
+Traitement requete : 254
+Traitement requete : 255
+Traitement requete : 289
+Traitement requete : 288
+Traitement requete : 281
+Traitement requete : 280
+Traitement requete : 283
+Traitement requete : 282
+Traitement requete : 285
+Traitement requete : 284
+Traitement requete : 287
+Traitement requete : 286
+Traitement requete : 278
+Traitement requete : 300
+Traitement requete : 263
+Traitement requete : 262
+Traitement requete : 261
+Traitement requete : 260
+Traitement requete : 267
+Traitement requete : 266
+Traitement requete : 265
+Traitement requete : 264
+Traitement requete : 269
+Traitement requete : 268
+Traitement requete : 296
+Traitement requete : 258
+Traitement requete : 273
+Traitement requete : 298
+Traitement requete : 299
+Traitement requete : 279
+Traitement requete : 297
+Traitement requete : 294
+Traitement requete : 295
+Traitement requete : 292
+Traitement requete : 293
+Traitement requete : 290
+Traitement requete : 291
+idf
+{'interpretation': 1.8477472506412806, 'balding': 2.6455576445497893, 'slime': 3.0150913957495367, 'batteries': 1.6596486143544638, 'carotid': 3.7689530688343513, 'morel': 3.5099628877751901, 'golf': 1.5541999950465084, 'cole': 2.2063442756542542, 'mister': 2.6237338554941307, 'find': 0.46873945990973748, 'ground': 1.3967131441648395, 'lyrics': 1.9430357411987007, 'symptoms': 2.01035888899073, 'to': 0, 'treatment': 1.4884915099294254, 'rich': 1.5413353193525485, 'has': 0, 'norway': 1.8614494974002294, 'hip': 1.738602442764831, 'activities': 0.8314977872980146, 'orcas': 3.1441742956876393, 'de': 1.0365567825482114, 'school': 0.8765893896798389, 'game': 0.8641684423102387, 'knot': 2.4533887007780333, 'schools': 0.8765893896798389, 'sachar': 4.3385435793363447, 'dreams': 1.2847544108225657, 'county': 1.3340517274714474, 'evolution': 1.9518766260641462, 'sangre': 3.6593212383767337, 'identifying': 1.4271282633492661, 'louis': 1.769060798781098, 'ketogenic': 4.2279260300387946, 'common': 1.2026919009614385, 'bewitched': 3.2234866889962808, 'where': 0, 'mean': 1.004341004351327, 'mental': 1.6971715606583717, 'fistula': 3.7504144162245465, 'spider': 2.0826590964526024, 'schizophrenia': 2.9977169147872451, 'roof': 1.9243077091260525, 'acid': 1.9725327652908686, 'folk': 1.5925808978319129, 'living': 0.72036282200390689, 'spruce': 2.830805514755411, 'for': 0, 'record': 1.0982220757913699, 'sun': 1.2353503257394907, 'cristo': 3.3905932494488464, 'sickness': 1.82253241939126, 'sites': 0.34789384054135603, 'witnesses': 1.698489343172634, 'internet': 0.97797643157511494, 'navidad': 3.6094522578343406, 'theory': 1.7166377058506783, 'interplanetary': 3.8704112591211675, 'advantages': 1.5136171681274251, 'bites': 1.7871978128641879, 'flowering': 1.4219985061284102, 'by': 0, 'barrett': 2.6612273360962435, 'revolutionary': 2.3105442867147641, 'benefits': 1.1533745023848934, 'missions': 1.3591041860754123, 'island': 1.2275624143590091, 'american': 1.0460401362416734, 'social': 1.0132731194103914, 'view': 0.45257709321374784, 'tribe': 2.3332102417057108, 'formerly': 0, 'marshall': 1.8838348609683833, 'recycling': 1.8839586631411451, 'mushrooms': 2.3518598863167668, 'esophagus': 3.3063768899771651, 'electronic': 1.3130585371748527, 'networking': 0.98147996193677578, 'beef': 2.2096933773637479, 'teddy': 2.4769995019141229, 'bears': 1.5135989960409522, 'altitude': 2.6665083944410153, 'attack': 1.4844333648654495, 'pa': 1.5103272594952464, 'uss': 2.9086651100653347, 'saint': 1.5738143045524848, 'music': 0.8628869429423156, 'care': 0.91658659219796723, 'remedies': 2.033910612462194, 'mountains': 1.4771217358083322, 'drugs': 1.4514959705705597, 'halloween': 1.9126623949436556, 'sore': 2.330749028187165, 'hayrides': 3.9446738295441506, 'plants': 1.4311221780534205, 'F5': 3.0227639954195942, 'instruction': 1.4456116711095657, 'castro': 2.7527269816565592, 'bee': 2.046005830815564, 'cast': 1.6707346382265151, 'magnesium': 2.8185617615429557, 'of': 0, 'my': 0, 'history': 0.93880308818599811, 'and': 0, 'heart': 0.9280306362358115, 'jehovah': 3.2976820521941206, 'illness': 1.3290009237747615, 'tzu': 3.1506155292967737, 'patron': 2.2211351324541906, 'feliz': 3.1213392346946707, 'influence': 1.687532091381398, 'evidence': 1.4385965134752809, 'middle': 1.3632691044007952, 'foods': 0.98917300232176553, 'cure': 1.9586561208032405, 'in': 0, 'throat': 2.2661040255898501, 'windsor': 2.3311467479088801, 'cavernous': 3.0348861713197439, 'pink': 1.6206954707633492, 'abscess': 3.4756534393689096, 'wilson': 1.9489325879814536, 'yoga': 2.1061924377562429, 'how': 0, 'tie': 2.0556925787034732, 'fidel': 2.7035375417698768, 'tornado': 2.5117655766505687, 'carpenter': 2.5216487593801848, 'diet': 1.7394013564603461, 'educational': 0.85909441530283348, 'running': 0.99767466512618219, 'alabama': 1.7047910995523043, 'a': 0, 'lead': 1.0722091765387087, 'rogers': 1.9160034341641592, 'medical': 1.1945670068666372, 'holes': 1.7752992919544828, 'disease': 1.6019042295672352, 'tooth': 2.4461954834692676, 'nasa': 2.3681125058175563, 'african': 1.6758152365600318, 'the': 0}
+[Start runquery]
+/osirim/sig/CORPUS-TRAV/TREC-ADHOC/indri-5.8/runquery/IndriRunQuery /projets/iris/PROJETS/PRINCESS/code/param/configIndriOkapi_indri_web2014_is_max1000.param /projets/iris/PROJETS/PRINCESS/queries/web2014/query.web2014.topics.param > /projets/iris/PROJETS/PRINCESS/code/temp/resultIndriModelOkapi_indri_web2014_is_max1000.txt
+[runquery ended]
+[Start runquery]
+/osirim/sig/CORPUS-TRAV/TREC-ADHOC/indri-5.8/runquery/IndriRunQuery /projets/iris/PROJETS/PRINCESS/code/param/configIndriTfidf_indri_web2014_is_max1000.param /projets/iris/PROJETS/PRINCESS/queries/web2014/query.web2014.topics.param > /projets/iris/PROJETS/PRINCESS/code/temp/resultIndriModelTfidf_indri_web2014_is_max1000.txt
+[runquery ended]
+[Start runquery]
+/osirim/sig/CORPUS-TRAV/TREC-ADHOC/indri-5.8/runquery/IndriRunQuery /projets/iris/PROJETS/PRINCESS/code/param/configIndrimodel_indri_web2014_is_max1000.param /projets/iris/PROJETS/PRINCESS/queries/web2014/query.web2014.topics.param > /projets/iris/PROJETS/PRINCESS/code/temp/resultIndriModelIndri_indri_web2014_is_max1000.txt
+[runquery ended]
+Time = 245180.435985 s
