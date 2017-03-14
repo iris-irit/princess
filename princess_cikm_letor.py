@@ -5,6 +5,7 @@ import getopt
 import os
 import sys
 import time
+import yaml
 
 from pymongo import MongoClient
 
@@ -102,7 +103,7 @@ def main():
                                     'process=', "cross=", "boost=", "alpha=", "topX="])
     except getopt.GetoptError as err:
         # print help information and exit:
-        print str(err)  # will print something like "option -a not recognized"
+        print(str(err))  # will print something like "option -a not recognized"
         usage()
         sys.exit(2)
     # Set the default values
@@ -252,7 +253,7 @@ def main():
     # print "output directory", output_directory
     os.system("rm " + output_directory + "*")
 
-    print "Nb process", process
+    print("Nb process", process)
 
     begin = time.time()
 
@@ -274,7 +275,7 @@ def main():
         else : processQuery = True
 
         if processQuery:
-            print "Query " + q
+            print("Query " + q)
 
             deb = time.time()
 
@@ -305,7 +306,7 @@ def main():
                             list_feat[model] = Feature(model, 0.0)
                         list_doc.append(Document(name, list_feat))
                         # sys.exit()
-            print 'nb docs:',len(list_doc)
+            print('nb docs:',len(list_doc))
 
             colName = collection_name.lower() + "_std"
             # print colName
@@ -344,17 +345,17 @@ def main():
                                      accepted=accepted, model=model, optim=optim, listStd=listStd, process=process,
                                      boost=boost, alpha=alpha, topx=topx,listTop=docsToCompete)
 
-            print "setCompetitors"
+            print("setCompetitors")
             to.setCompetitors(list_doc)
             # print len(list_doc)
-            print "runCompetition"
+            print("runCompetition")
             to.runCompetition()
-            print "printResults"
+            print("printResults")
             to.printResults(output_directory)
 
-            print "Query processing time:", (time.time() - deb), "sec"
+            print("Query processing time:", (time.time() - deb), "sec")
 
-    print "[ n=", process, type_tournament, "] total time:", (time.time() - begin), "ms"
+    print("[ n=", process, type_tournament, "] total time:", (time.time() - begin), "ms")
     with open(output_directory + "completed.txt", "w") as f:
         f.write("completed!!")
 
@@ -383,7 +384,7 @@ def main():
 
 
 def usage():
-    print "Usage: \
+    print("Usage: \
         -h [--help] Print this help \n\
         -t [--type] Set the type of the tournament \n\
         -d [--documents] Set the number of documents that shall participate to the final tournament (preferably a power of 2) \n \
@@ -392,7 +393,7 @@ def usage():
         -v [--verbose] Activate the verbose mode (for debugging purpose)" \
           "" \
           "" \
-          ""
+          "")
 
 
 # TODO: mettre a jour le usage
